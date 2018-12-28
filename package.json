@@ -1,0 +1,14 @@
+{
+  "name": "ep1",
+  "version": "1.0.0",
+  "description": "jscasts - episode 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha ./spec"
+  },
+  "author": "Wojciech Krysiak",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}
