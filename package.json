@@ -4,11 +4,15 @@
   "description": "jscasts - episode 1",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/.bin/mocha ./spec"
+    "test": "./node_modules/.bin/mocha ./spec",
+    "docs": "./node_modules/.bin/jsdoc -c jsdoc.json"
   },
   "author": "Wojciech Krysiak",
   "license": "MIT",
   "dependencies": {
     "mocha": "^5.2.0"
+  },
+  "devDependencies": {
+    "jsdoc": "^3.5.5"
   }
 }
