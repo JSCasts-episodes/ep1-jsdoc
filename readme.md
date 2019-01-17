@@ -1,3 +1,4 @@
 ### Episode 1
+This repository is the complete code used in JScasts - Episode 2
 
-An example application with jsdoc.
+You can watch the episode here: https://youtu.be/Yl6WARA3IhQ
